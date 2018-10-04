@@ -1,0 +1,15 @@
+# dependencies
+**/node_modules
+
+# misc
+*.class
+*.log
+*.DS_Store
+*.swpcache/
+*.sass-cache/
+**.idea
+*.pyc
+*.css.map
+*.css
+*.psd
+*.private
